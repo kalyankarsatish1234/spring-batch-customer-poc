@@ -1,0 +1,1 @@
+This repository serves as a proof of concept for integrating Spring Batch with a Customer entity. It demonstrates how to create, process, and manage customer data using Spring Batch's job and step configuration.
